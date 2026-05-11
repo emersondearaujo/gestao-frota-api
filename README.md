@@ -206,8 +206,6 @@ PATCH /fretes/{id}/finalizar
 
 ---
 
-# 📸 Demonstração
-
 ## Dashboard
 
 * Gestão completa da frota
